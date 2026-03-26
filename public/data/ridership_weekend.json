@@ -1,0 +1,217 @@
+{
+  "WND": {
+    "entries": 4375,
+    "exits": 4087,
+    "total": 8462
+  },
+  "WIM": {
+    "entries": 10856,
+    "exits": 10525,
+    "total": 21381
+  },
+  "TIR": {
+    "entries": 13787,
+    "exits": 13462,
+    "total": 27249
+  },
+  "TDI": {
+    "entries": 8600,
+    "exits": 8275,
+    "total": 16875
+  },
+  "KLD": {
+    "entries": 11575,
+    "exits": 11225,
+    "total": 22800
+  },
+  "TLG": {
+    "entries": 16587,
+    "exits": 16125,
+    "total": 32712
+  },
+  "NWP": {
+    "entries": 18500,
+    "exits": 18075,
+    "total": 36575
+  },
+  "TND": {
+    "entries": 21675,
+    "exits": 21075,
+    "total": 42750
+  },
+  "STC": {
+    "entries": 17125,
+    "exits": 16625,
+    "total": 33750
+  },
+  "WSP": {
+    "entries": 24500,
+    "exits": 23925,
+    "total": 48425
+  },
+  "MND": {
+    "entries": 19325,
+    "exits": 18725,
+    "total": 38050
+  },
+  "HCT": {
+    "entries": 22750,
+    "exits": 22175,
+    "total": 44925
+  },
+  "CC1": {
+    "entries": 41675,
+    "exits": 41075,
+    "total": 82750
+  },
+  "GVE": {
+    "entries": 26250,
+    "exits": 25675,
+    "total": 51925
+  },
+  "LIC": {
+    "entries": 24750,
+    "exits": 24175,
+    "total": 48925
+  },
+  "THL": {
+    "entries": 21325,
+    "exits": 20750,
+    "total": 42075
+  },
+  "AGD": {
+    "entries": 20250,
+    "exits": 19675,
+    "total": 39925
+  },
+  "TYN": {
+    "entries": 16675,
+    "exits": 16075,
+    "total": 32750
+  },
+  "NDM": {
+    "entries": 15250,
+    "exits": 14675,
+    "total": 29925
+  },
+  "SDP": {
+    "entries": 18825,
+    "exits": 18250,
+    "total": 37075
+  },
+  "LTM": {
+    "entries": 16000,
+    "exits": 15425,
+    "total": 31425
+  },
+  "GND": {
+    "entries": 22250,
+    "exits": 21675,
+    "total": 43925
+  },
+  "ALN": {
+    "entries": 13825,
+    "exits": 13250,
+    "total": 27075
+  },
+  "NGR": {
+    "entries": 12750,
+    "exits": 12175,
+    "total": 24925
+  },
+  "MBK": {
+    "entries": 26250,
+    "exits": 25675,
+    "total": 51925
+  },
+  "APT": {
+    "entries": 35250,
+    "exits": 34675,
+    "total": 69925
+  },
+  "CHC": {
+    "entries": 38750,
+    "exits": 38175,
+    "total": 76925
+  },
+  "EGM": {
+    "entries": 20250,
+    "exits": 19675,
+    "total": 39925
+  },
+  "NHP": {
+    "entries": 13750,
+    "exits": 13175,
+    "total": 26925
+  },
+  "KPK": {
+    "entries": 17750,
+    "exits": 17175,
+    "total": 34925
+  },
+  "PCE": {
+    "entries": 12325,
+    "exits": 11750,
+    "total": 24075
+  },
+  "SNR": {
+    "entries": 13825,
+    "exits": 13250,
+    "total": 27075
+  },
+  "ANE": {
+    "entries": 17250,
+    "exits": 16675,
+    "total": 33925
+  },
+  "ANT": {
+    "entries": 18750,
+    "exits": 18175,
+    "total": 36925
+  },
+  "THM": {
+    "entries": 15250,
+    "exits": 14675,
+    "total": 29925
+  },
+  "KYB": {
+    "entries": 21000,
+    "exits": 20425,
+    "total": 41425
+  },
+  "CMB": {
+    "entries": 23750,
+    "exits": 23175,
+    "total": 46925
+  },
+  "ARB": {
+    "entries": 17750,
+    "exits": 17175,
+    "total": 34925
+  },
+  "VDP": {
+    "entries": 19175,
+    "exits": 18575,
+    "total": 37750
+  },
+  "ASK": {
+    "entries": 16250,
+    "exits": 15675,
+    "total": 31925
+  },
+  "EKT": {
+    "entries": 14750,
+    "exits": 14175,
+    "total": 28925
+  },
+  "ALN2": {
+    "entries": 20250,
+    "exits": 19675,
+    "total": 39925
+  },
+  "STM": {
+    "entries": 21250,
+    "exits": 20675,
+    "total": 41925
+  }
+}

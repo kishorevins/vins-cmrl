@@ -1,0 +1,14 @@
+# Core dependencies for data scripts
+# pandas and openpyxl are optional, needed only for advanced XLSX processing
+# Current scripts work with standard library CSV and JSON modules
+
+# Optional: for processing XLSX files (if you have real data in Excel)
+pandas>=2.2.0
+openpyxl>=3.1.2
+numpy>=2.0.0
+
+# Core utilities (usually built-in)
+# - json (built-in)
+# - csv (built-in)
+# - random (built-in)
+# - pathlib (built-in)

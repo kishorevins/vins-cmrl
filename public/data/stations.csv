@@ -1,0 +1,44 @@
+station_code,station_name,line,latitude,longitude
+WND,Wimco Nagar Depot,Blue Line,13.2190,80.3168
+WIM,Wimco Nagar,Blue Line,13.2161,80.3067
+TIR,Tiruvottiyur,Blue Line,13.1827,80.3043
+TDI,Tiruvottiyur Theradi,Blue Line,13.1730,80.3015
+KLD,Kaladipet,Blue Line,13.1620,80.2985
+TLG,Tollgate,Blue Line,13.1530,80.2921
+NWP,New Washermenpet,Blue Line,13.1410,80.2910
+TND,Tondiarpet,Blue Line,13.1300,80.2915
+STC,Sir Theagaraya College,Blue Line,13.1210,80.2920
+WSP,Washermenpet,Blue Line,13.1143,80.2916
+MND,Mannadi,Blue Line,13.0950,80.2900
+HCT,High Court,Blue Line,13.0873,80.2870
+CC1,Chennai Central,Blue Line,13.0827,80.2729
+GVE,Government Estate,Blue Line,13.0780,80.2690
+LIC,LIC,Blue Line,13.0643,80.2642
+THL,Thousand Lights,Blue Line,13.0582,80.2591
+AGD,AG-DMS,Blue Line,13.0500,80.2510
+TYN,Teynampet,Blue Line,13.0440,80.2450
+NDM,Nandanam,Blue Line,13.0380,80.2380
+SDP,Saidapet,Blue Line,13.0237,80.2209
+LTM,Little Mount,Blue Line,13.0150,80.2125
+GND,Guindy,Blue Line,13.0090,80.2115
+ALN,Alandur,Blue Line,13.0047,80.2015
+NGR,Nanganallur Road,Blue Line,12.9980,80.1930
+MBK,Meenambakkam,Blue Line,12.9870,80.1800
+APT,Airport,Blue Line,12.9808,80.1692
+CHC,Chennai Central,Green Line,13.0827,80.2729
+EGM,Egmore,Green Line,13.0732,80.2610
+NHP,Nehru Park,Green Line,13.0786,80.2508
+KPK,Kilpauk,Green Line,13.0773,80.2425
+PCE,Pachaiyappa's College,Green Line,13.0770,80.2330
+SNR,Shenoy Nagar,Green Line,13.0780,80.2250
+ANE,Anna Nagar East,Green Line,13.0840,80.2180
+ANT,Anna Nagar Tower,Green Line,13.0850,80.2102
+THM,Thirumangalam,Green Line,13.0855,80.2010
+KYB,Koyambedu,Green Line,13.0696,80.1946
+CMB,CMBT,Green Line,13.0680,80.2030
+ARB,Arumbakkam,Green Line,13.0620,80.2100
+VDP,Vadapalani,Green Line,13.0505,80.2122
+ASK,Ashok Nagar,Green Line,13.0352,80.2126
+EKT,Ekkattuthangal,Green Line,13.0170,80.2050
+ALN2,Alandur,Green Line,13.0047,80.2015
+STM,St. Thomas Mount,Green Line,12.9951,80.2039
