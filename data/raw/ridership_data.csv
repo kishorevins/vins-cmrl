@@ -1,0 +1,216 @@
+date,station_code,station_name,line,entries,exits,day_of_week
+2024-12-01,WND,Wimco Nagar Depot,Blue Line,1250,1180,Sunday
+2024-12-01,WIM,Wimco Nagar,Blue Line,3420,3280,Sunday
+2024-12-01,TIR,Tiruvottiyur,Blue Line,4150,4020,Sunday
+2024-12-01,TDI,Tiruvottiyur Theradi,Blue Line,2850,2720,Sunday
+2024-12-01,KLD,Kaladipet,Blue Line,3680,3540,Sunday
+2024-12-01,TLG,Tollgate,Blue Line,5420,5280,Sunday
+2024-12-01,NWP,New Washermenpet,Blue Line,6150,5980,Sunday
+2024-12-01,TND,Tondiarpet,Blue Line,7420,7180,Sunday
+2024-12-01,STC,Sir Theagaraya College,Blue Line,5850,5680,Sunday
+2024-12-01,WSP,Washermenpet,Blue Line,8250,8020,Sunday
+2024-12-01,MND,Mannadi,Blue Line,6480,6240,Sunday
+2024-12-01,HCT,High Court,Blue Line,7850,7620,Sunday
+2024-12-01,CC1,Chennai Central,Blue Line,15420,15180,Sunday
+2024-12-01,GVE,Government Estate,Blue Line,9250,9020,Sunday
+2024-12-01,LIC,LIC,Blue Line,8650,8420,Sunday
+2024-12-01,THL,Thousand Lights,Blue Line,7280,7050,Sunday
+2024-12-01,AGD,AG-DMS,Blue Line,6850,6620,Sunday
+2024-12-01,TYN,Teynampet,Blue Line,5420,5180,Sunday
+2024-12-01,NDM,Nandanam,Blue Line,4850,4620,Sunday
+2024-12-01,SDP,Saidapet,Blue Line,6280,6050,Sunday
+2024-12-01,LTM,Little Mount,Blue Line,5150,4920,Sunday
+2024-12-01,GND,Guindy,Blue Line,7650,7420,Sunday
+2024-12-01,ALN,Alandur,Blue Line,4280,4050,Sunday
+2024-12-01,NGR,Nanganallur Road,Blue Line,3850,3620,Sunday
+2024-12-01,MBK,Meenambakkam,Blue Line,9250,9020,Sunday
+2024-12-01,APT,Airport,Blue Line,12850,12620,Sunday
+2024-12-01,CHC,Chennai Central,Green Line,14250,14020,Sunday
+2024-12-01,EGM,Egmore,Green Line,6850,6620,Sunday
+2024-12-01,NHP,Nehru Park,Green Line,4250,4020,Sunday
+2024-12-01,KPK,Kilpauk,Green Line,5850,5620,Sunday
+2024-12-01,PCE,Pachaiyappa's College,Green Line,3680,3450,Sunday
+2024-12-01,SNR,Shenoy Nagar,Green Line,4280,4050,Sunday
+2024-12-01,ANE,Anna Nagar East,Green Line,5650,5420,Sunday
+2024-12-01,ANT,Anna Nagar Tower,Green Line,6250,6020,Sunday
+2024-12-01,THM,Thirumangalam,Green Line,4850,4620,Sunday
+2024-12-01,KYB,Koyambedu,Green Line,7150,6920,Sunday
+2024-12-01,CMB,CMBT,Green Line,8250,8020,Sunday
+2024-12-01,ARB,Arumbakkam,Green Line,5850,5620,Sunday
+2024-12-01,VDP,Vadapalani,Green Line,6420,6180,Sunday
+2024-12-01,ASK,Ashok Nagar,Green Line,5250,5020,Sunday
+2024-12-01,EKT,Ekkattuthangal,Green Line,4650,4420,Sunday
+2024-12-01,ALN2,Alandur,Green Line,6850,6620,Sunday
+2024-12-01,STM,St. Thomas Mount,Green Line,7250,7020,Sunday
+2024-12-02,WND,Wimco Nagar Depot,Blue Line,2150,2020,Monday
+2024-12-02,WIM,Wimco Nagar,Blue Line,5420,5280,Monday
+2024-12-02,TIR,Tiruvottiyur,Blue Line,6850,6720,Monday
+2024-12-02,TDI,Tiruvottiyur Theradi,Blue Line,4280,4150,Monday
+2024-12-02,KLD,Kaladipet,Blue Line,5680,5540,Monday
+2024-12-02,TLG,Tollgate,Blue Line,7850,7620,Monday
+2024-12-02,NWP,New Washermenpet,Blue Line,8650,8420,Monday
+2024-12-02,TND,Tondiarpet,Blue Line,9850,9620,Monday
+2024-12-02,STC,Sir Theagaraya College,Blue Line,7850,7620,Monday
+2024-12-02,WSP,Washermenpet,Blue Line,10850,10620,Monday
+2024-12-02,MND,Mannadi,Blue Line,8450,8220,Monday
+2024-12-02,HCT,High Court,Blue Line,9850,9620,Monday
+2024-12-02,CC1,Chennai Central,Blue Line,18420,18180,Monday
+2024-12-02,GVE,Government Estate,Blue Line,11250,11020,Monday
+2024-12-02,LIC,LIC,Blue Line,10650,10420,Monday
+2024-12-02,THL,Thousand Lights,Blue Line,9280,9050,Monday
+2024-12-02,AGD,AG-DMS,Blue Line,8850,8620,Monday
+2024-12-02,TYN,Teynampet,Blue Line,7420,7180,Monday
+2024-12-02,NDM,Nandanam,Blue Line,6850,6620,Monday
+2024-12-02,SDP,Saidapet,Blue Line,8280,8050,Monday
+2024-12-02,LTM,Little Mount,Blue Line,7150,6920,Monday
+2024-12-02,GND,Guindy,Blue Line,9650,9420,Monday
+2024-12-02,ALN,Alandur,Blue Line,6280,6050,Monday
+2024-12-02,NGR,Nanganallur Road,Blue Line,5850,5620,Monday
+2024-12-02,MBK,Meenambakkam,Blue Line,11250,11020,Monday
+2024-12-02,APT,Airport,Blue Line,14850,14620,Monday
+2024-12-02,CHC,Chennai Central,Green Line,16250,16020,Monday
+2024-12-02,EGM,Egmore,Green Line,8850,8620,Monday
+2024-12-02,NHP,Nehru Park,Green Line,6250,6020,Monday
+2024-12-02,KPK,Kilpauk,Green Line,7850,7620,Monday
+2024-12-02,PCE,Pachaiyappa's College,Green Line,5680,5450,Monday
+2024-12-02,SNR,Shenoy Nagar,Green Line,6280,6050,Monday
+2024-12-02,ANE,Anna Nagar East,Green Line,7650,7420,Monday
+2024-12-02,ANT,Anna Nagar Tower,Green Line,8250,8020,Monday
+2024-12-02,THM,Thirumangalam,Green Line,6850,6620,Monday
+2024-12-02,KYB,Koyambedu,Green Line,9150,8920,Monday
+2024-12-02,CMB,CMBT,Green Line,10250,10020,Monday
+2024-12-02,ARB,Arumbakkam,Green Line,7850,7620,Monday
+2024-12-02,VDP,Vadapalani,Green Line,8420,8180,Monday
+2024-12-02,ASK,Ashok Nagar,Green Line,7250,7020,Monday
+2024-12-02,EKT,Ekkattuthangal,Green Line,6650,6420,Monday
+2024-12-02,ALN2,Alandur,Green Line,8850,8620,Monday
+2024-12-02,STM,St. Thomas Mount,Green Line,9250,9020,Monday
+2024-12-15,WND,Wimco Nagar Depot,Blue Line,1850,1720,Sunday
+2024-12-15,WIM,Wimco Nagar,Blue Line,4250,4120,Sunday
+2024-12-15,TIR,Tiruvottiyur,Blue Line,5350,5220,Sunday
+2024-12-15,TDI,Tiruvottiyur Theradi,Blue Line,3550,3420,Sunday
+2024-12-15,KLD,Kaladipet,Blue Line,4480,4340,Sunday
+2024-12-15,TLG,Tollgate,Blue Line,6420,6280,Sunday
+2024-12-15,NWP,New Washermenpet,Blue Line,7150,6980,Sunday
+2024-12-15,TND,Tondiarpet,Blue Line,8420,8180,Sunday
+2024-12-15,STC,Sir Theagaraya College,Blue Line,6850,6680,Sunday
+2024-12-15,WSP,Washermenpet,Blue Line,9250,9020,Sunday
+2024-12-15,MND,Mannadi,Blue Line,7480,7240,Sunday
+2024-12-15,HCT,High Court,Blue Line,8850,8620,Sunday
+2024-12-15,CC1,Chennai Central,Blue Line,16420,16180,Sunday
+2024-12-15,GVE,Government Estate,Blue Line,10250,10020,Sunday
+2024-12-15,LIC,LIC,Blue Line,9650,9420,Sunday
+2024-12-15,THL,Thousand Lights,Blue Line,8280,8050,Sunday
+2024-12-15,AGD,AG-DMS,Blue Line,7850,7620,Sunday
+2024-12-15,TYN,Teynampet,Blue Line,6420,6180,Sunday
+2024-12-15,NDM,Nandanam,Blue Line,5850,5620,Sunday
+2024-12-15,SDP,Saidapet,Blue Line,7280,7050,Sunday
+2024-12-15,LTM,Little Mount,Blue Line,6150,5920,Sunday
+2024-12-15,GND,Guindy,Blue Line,8650,8420,Sunday
+2024-12-15,ALN,Alandur,Blue Line,5280,5050,Sunday
+2024-12-15,NGR,Nanganallur Road,Blue Line,4850,4620,Sunday
+2024-12-15,MBK,Meenambakkam,Blue Line,10250,10020,Sunday
+2024-12-15,APT,Airport,Blue Line,13850,13620,Sunday
+2024-12-15,CHC,Chennai Central,Green Line,15250,15020,Sunday
+2024-12-15,EGM,Egmore,Green Line,7850,7620,Sunday
+2024-12-15,NHP,Nehru Park,Green Line,5250,5020,Sunday
+2024-12-15,KPK,Kilpauk,Green Line,6850,6620,Sunday
+2024-12-15,PCE,Pachaiyappa's College,Green Line,4680,4450,Sunday
+2024-12-15,SNR,Shenoy Nagar,Green Line,5280,5050,Sunday
+2024-12-15,ANE,Anna Nagar East,Green Line,6650,6420,Sunday
+2024-12-15,ANT,Anna Nagar Tower,Green Line,7250,7020,Sunday
+2024-12-15,THM,Thirumangalam,Green Line,5850,5620,Sunday
+2024-12-15,KYB,Koyambedu,Green Line,8150,7920,Sunday
+2024-12-15,CMB,CMBT,Green Line,9250,9020,Sunday
+2024-12-15,ARB,Arumbakkam,Green Line,6850,6620,Sunday
+2024-12-15,VDP,Vadapalani,Green Line,7420,7180,Sunday
+2024-12-15,ASK,Ashok Nagar,Green Line,6250,6020,Sunday
+2024-12-15,EKT,Ekkattuthangal,Green Line,5650,5420,Sunday
+2024-12-15,ALN2,Alandur,Green Line,7850,7620,Sunday
+2024-12-15,STM,St. Thomas Mount,Green Line,8250,8020,Sunday
+2025-01-15,WND,Wimco Nagar Depot,Blue Line,2150,2020,Wednesday
+2025-01-15,WIM,Wimco Nagar,Blue Line,5850,5720,Wednesday
+2025-01-15,TIR,Tiruvottiyur,Blue Line,7280,7150,Wednesday
+2025-01-15,TDI,Tiruvottiyur Theradi,Blue Line,4680,4550,Wednesday
+2025-01-15,KLD,Kaladipet,Blue Line,6180,6040,Wednesday
+2025-01-15,TLG,Tollgate,Blue Line,8350,8120,Wednesday
+2025-01-15,NWP,New Washermenpet,Blue Line,9150,8980,Wednesday
+2025-01-15,TND,Tondiarpet,Blue Line,10420,10180,Wednesday
+2025-01-15,STC,Sir Theagaraya College,Blue Line,8350,8120,Wednesday
+2025-01-15,WSP,Washermenpet,Blue Line,11850,11620,Wednesday
+2025-01-15,MND,Mannadi,Blue Line,9480,9240,Wednesday
+2025-01-15,HCT,High Court,Blue Line,10850,10620,Wednesday
+2025-01-15,CC1,Chennai Central,Blue Line,19420,19180,Wednesday
+2025-01-15,GVE,Government Estate,Blue Line,12250,12020,Wednesday
+2025-01-15,LIC,LIC,Blue Line,11650,11420,Wednesday
+2025-01-15,THL,Thousand Lights,Blue Line,10280,10050,Wednesday
+2025-01-15,AGD,AG-DMS,Blue Line,9850,9620,Wednesday
+2025-01-15,TYN,Teynampet,Blue Line,8420,8180,Wednesday
+2025-01-15,NDM,Nandanam,Blue Line,7850,7620,Wednesday
+2025-01-15,SDP,Saidapet,Blue Line,9280,9050,Wednesday
+2025-01-15,LTM,Little Mount,Blue Line,8150,7920,Wednesday
+2025-01-15,GND,Guindy,Blue Line,10650,10420,Wednesday
+2025-01-15,ALN,Alandur,Blue Line,7280,7050,Wednesday
+2025-01-15,NGR,Nanganallur Road,Blue Line,6850,6620,Wednesday
+2025-01-15,MBK,Meenambakkam,Blue Line,12250,12020,Wednesday
+2025-01-15,APT,Airport,Blue Line,15850,15620,Wednesday
+2025-01-15,CHC,Chennai Central,Green Line,17250,17020,Wednesday
+2025-01-15,EGM,Egmore,Green Line,9850,9620,Wednesday
+2025-01-15,NHP,Nehru Park,Green Line,7250,7020,Wednesday
+2025-01-15,KPK,Kilpauk,Green Line,8850,8620,Wednesday
+2025-01-15,PCE,Pachaiyappa's College,Green Line,6680,6450,Wednesday
+2025-01-15,SNR,Shenoy Nagar,Green Line,7280,7050,Wednesday
+2025-01-15,ANE,Anna Nagar East,Green Line,8650,8420,Wednesday
+2025-01-15,ANT,Anna Nagar Tower,Green Line,9250,9020,Wednesday
+2025-01-15,THM,Thirumangalam,Green Line,7850,7620,Wednesday
+2025-01-15,KYB,Koyambedu,Green Line,10150,9920,Wednesday
+2025-01-15,CMB,CMBT,Green Line,11250,11020,Wednesday
+2025-01-15,ARB,Arumbakkam,Green Line,8850,8620,Wednesday
+2025-01-15,VDP,Vadapalani,Green Line,9420,9180,Wednesday
+2025-01-15,ASK,Ashok Nagar,Green Line,8250,8020,Wednesday
+2025-01-15,EKT,Ekkattuthangal,Green Line,7650,7420,Wednesday
+2025-01-15,ALN2,Alandur,Green Line,9850,9620,Wednesday
+2025-01-15,STM,St. Thomas Mount,Green Line,10250,10020,Wednesday
+2025-02-15,WND,Wimco Nagar Depot,Blue Line,1950,1820,Saturday
+2025-02-15,WIM,Wimco Nagar,Blue Line,4850,4720,Saturday
+2025-02-15,TIR,Tiruvottiyur,Blue Line,6280,6150,Saturday
+2025-02-15,TDI,Tiruvottiyur Theradi,Blue Line,3680,3550,Saturday
+2025-02-15,KLD,Kaladipet,Blue Line,5180,5040,Saturday
+2025-02-15,TLG,Tollgate,Blue Line,7350,7120,Saturday
+2025-02-15,NWP,New Washermenpet,Blue Line,8150,7980,Saturday
+2025-02-15,TND,Tondiarpet,Blue Line,9420,9180,Saturday
+2025-02-15,STC,Sir Theagaraya College,Blue Line,7350,7120,Saturday
+2025-02-15,WSP,Washermenpet,Blue Line,10850,10620,Saturday
+2025-02-15,MND,Mannadi,Blue Line,8480,8240,Saturday
+2025-02-15,HCT,High Court,Blue Line,9850,9620,Saturday
+2025-02-15,CC1,Chennai Central,Blue Line,17420,17180,Saturday
+2025-02-15,GVE,Government Estate,Blue Line,11250,11020,Saturday
+2025-02-15,LIC,LIC,Blue Line,10650,10420,Saturday
+2025-02-15,THL,Thousand Lights,Blue Line,9280,9050,Saturday
+2025-02-15,AGD,AG-DMS,Blue Line,8850,8620,Saturday
+2025-02-15,TYN,Teynampet,Blue Line,7420,7180,Saturday
+2025-02-15,NDM,Nandanam,Blue Line,6850,6620,Saturday
+2025-02-15,SDP,Saidapet,Blue Line,8280,8050,Saturday
+2025-02-15,LTM,Little Mount,Blue Line,7150,6920,Saturday
+2025-02-15,GND,Guindy,Blue Line,9650,9420,Saturday
+2025-02-15,ALN,Alandur,Blue Line,6280,6050,Saturday
+2025-02-15,NGR,Nanganallur Road,Blue Line,5850,5620,Saturday
+2025-02-15,MBK,Meenambakkam,Blue Line,11250,11020,Saturday
+2025-02-15,APT,Airport,Blue Line,14850,14620,Saturday
+2025-02-15,CHC,Chennai Central,Green Line,16250,16020,Saturday
+2025-02-15,EGM,Egmore,Green Line,8850,8620,Saturday
+2025-02-15,NHP,Nehru Park,Green Line,6250,6020,Saturday
+2025-02-15,KPK,Kilpauk,Green Line,7850,7620,Saturday
+2025-02-15,PCE,Pachaiyappa's College,Green Line,5680,5450,Saturday
+2025-02-15,SNR,Shenoy Nagar,Green Line,6280,6050,Saturday
+2025-02-15,ANE,Anna Nagar East,Green Line,7650,7420,Saturday
+2025-02-15,ANT,Anna Nagar Tower,Green Line,8250,8020,Saturday
+2025-02-15,THM,Thirumangalam,Green Line,6850,6620,Saturday
+2025-02-15,KYB,Koyambedu,Green Line,9150,8920,Saturday
+2025-02-15,CMB,CMBT,Green Line,10250,10020,Saturday
+2025-02-15,ARB,Arumbakkam,Green Line,7850,7620,Saturday
+2025-02-15,VDP,Vadapalani,Green Line,8420,8180,Saturday
+2025-02-15,ASK,Ashok Nagar,Green Line,7250,7020,Saturday
+2025-02-15,EKT,Ekkattuthangal,Green Line,6650,6420,Saturday
+2025-02-15,ALN2,Alandur,Green Line,8850,8620,Saturday
+2025-02-15,STM,St. Thomas Mount,Green Line,9250,9020,Saturday
