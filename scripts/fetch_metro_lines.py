@@ -7,7 +7,7 @@ from pathlib import Path
 
 OUT = Path(__file__).parent.parent / "public" / "data"
 
-RELATIONS = {
+RELATIONS = { 
     "blue":   {"id": 8191377, "color": [0, 114, 198]},   # Example OSM relation ID for Blue Line
     "green":  {"id": 8191378, "color": [67, 176, 42]},    # Example OSM relation ID for Green Line
 }
