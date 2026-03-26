@@ -1,0 +1,693 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3168,
+          13.219
+        ]
+      },
+      "properties": {
+        "id": "WND",
+        "code": "WND",
+        "name": "Wimco Nagar Depot",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3067,
+          13.2161
+        ]
+      },
+      "properties": {
+        "id": "WIM",
+        "code": "WIM",
+        "name": "Wimco Nagar",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3043,
+          13.1827
+        ]
+      },
+      "properties": {
+        "id": "TIR",
+        "code": "TIR",
+        "name": "Tiruvottiyur",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3015,
+          13.173
+        ]
+      },
+      "properties": {
+        "id": "TDI",
+        "code": "TDI",
+        "name": "Tiruvottiyur Theradi",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2985,
+          13.162
+        ]
+      },
+      "properties": {
+        "id": "KLD",
+        "code": "KLD",
+        "name": "Kaladipet",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2921,
+          13.153
+        ]
+      },
+      "properties": {
+        "id": "TLG",
+        "code": "TLG",
+        "name": "Tollgate",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.291,
+          13.141
+        ]
+      },
+      "properties": {
+        "id": "NWP",
+        "code": "NWP",
+        "name": "New Washermenpet",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2915,
+          13.13
+        ]
+      },
+      "properties": {
+        "id": "TND",
+        "code": "TND",
+        "name": "Tondiarpet",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.292,
+          13.121
+        ]
+      },
+      "properties": {
+        "id": "STC",
+        "code": "STC",
+        "name": "Sir Theagaraya College",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2916,
+          13.1143
+        ]
+      },
+      "properties": {
+        "id": "WSP",
+        "code": "WSP",
+        "name": "Washermenpet",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.29,
+          13.095
+        ]
+      },
+      "properties": {
+        "id": "MND",
+        "code": "MND",
+        "name": "Mannadi",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.287,
+          13.0873
+        ]
+      },
+      "properties": {
+        "id": "HCT",
+        "code": "HCT",
+        "name": "High Court",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2729,
+          13.0827
+        ]
+      },
+      "properties": {
+        "id": "CC1",
+        "code": "CC1",
+        "name": "Chennai Central",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.269,
+          13.078
+        ]
+      },
+      "properties": {
+        "id": "GVE",
+        "code": "GVE",
+        "name": "Government Estate",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2642,
+          13.0643
+        ]
+      },
+      "properties": {
+        "id": "LIC",
+        "code": "LIC",
+        "name": "LIC",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2591,
+          13.0582
+        ]
+      },
+      "properties": {
+        "id": "THL",
+        "code": "THL",
+        "name": "Thousand Lights",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.251,
+          13.05
+        ]
+      },
+      "properties": {
+        "id": "AGD",
+        "code": "AGD",
+        "name": "AG-DMS",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.245,
+          13.044
+        ]
+      },
+      "properties": {
+        "id": "TYN",
+        "code": "TYN",
+        "name": "Teynampet",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.238,
+          13.038
+        ]
+      },
+      "properties": {
+        "id": "NDM",
+        "code": "NDM",
+        "name": "Nandanam",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2209,
+          13.0237
+        ]
+      },
+      "properties": {
+        "id": "SDP",
+        "code": "SDP",
+        "name": "Saidapet",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2125,
+          13.015
+        ]
+      },
+      "properties": {
+        "id": "LTM",
+        "code": "LTM",
+        "name": "Little Mount",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2115,
+          13.009
+        ]
+      },
+      "properties": {
+        "id": "GND",
+        "code": "GND",
+        "name": "Guindy",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2015,
+          13.0047
+        ]
+      },
+      "properties": {
+        "id": "ALN",
+        "code": "ALN",
+        "name": "Alandur",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.193,
+          12.998
+        ]
+      },
+      "properties": {
+        "id": "NGR",
+        "code": "NGR",
+        "name": "Nanganallur Road",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18,
+          12.987
+        ]
+      },
+      "properties": {
+        "id": "MBK",
+        "code": "MBK",
+        "name": "Meenambakkam",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1692,
+          12.9808
+        ]
+      },
+      "properties": {
+        "id": "APT",
+        "code": "APT",
+        "name": "Airport",
+        "line": "Blue Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2729,
+          13.0827
+        ]
+      },
+      "properties": {
+        "id": "CHC",
+        "code": "CHC",
+        "name": "Chennai Central",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.261,
+          13.0732
+        ]
+      },
+      "properties": {
+        "id": "EGM",
+        "code": "EGM",
+        "name": "Egmore",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2508,
+          13.0786
+        ]
+      },
+      "properties": {
+        "id": "NHP",
+        "code": "NHP",
+        "name": "Nehru Park",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2425,
+          13.0773
+        ]
+      },
+      "properties": {
+        "id": "KPK",
+        "code": "KPK",
+        "name": "Kilpauk",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.233,
+          13.077
+        ]
+      },
+      "properties": {
+        "id": "PCE",
+        "code": "PCE",
+        "name": "Pachaiyappa's College",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.225,
+          13.078
+        ]
+      },
+      "properties": {
+        "id": "SNR",
+        "code": "SNR",
+        "name": "Shenoy Nagar",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.218,
+          13.084
+        ]
+      },
+      "properties": {
+        "id": "ANE",
+        "code": "ANE",
+        "name": "Anna Nagar East",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2102,
+          13.085
+        ]
+      },
+      "properties": {
+        "id": "ANT",
+        "code": "ANT",
+        "name": "Anna Nagar Tower",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.201,
+          13.0855
+        ]
+      },
+      "properties": {
+        "id": "THM",
+        "code": "THM",
+        "name": "Thirumangalam",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1946,
+          13.0696
+        ]
+      },
+      "properties": {
+        "id": "KYB",
+        "code": "KYB",
+        "name": "Koyambedu",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.203,
+          13.068
+        ]
+      },
+      "properties": {
+        "id": "CMB",
+        "code": "CMB",
+        "name": "CMBT",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21,
+          13.062
+        ]
+      },
+      "properties": {
+        "id": "ARB",
+        "code": "ARB",
+        "name": "Arumbakkam",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2122,
+          13.0505
+        ]
+      },
+      "properties": {
+        "id": "VDP",
+        "code": "VDP",
+        "name": "Vadapalani",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2126,
+          13.0352
+        ]
+      },
+      "properties": {
+        "id": "ASK",
+        "code": "ASK",
+        "name": "Ashok Nagar",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.205,
+          13.017
+        ]
+      },
+      "properties": {
+        "id": "EKT",
+        "code": "EKT",
+        "name": "Ekkattuthangal",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2015,
+          13.0047
+        ]
+      },
+      "properties": {
+        "id": "ALN2",
+        "code": "ALN2",
+        "name": "Alandur",
+        "line": "Green Line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2039,
+          12.9951
+        ]
+      },
+      "properties": {
+        "id": "STM",
+        "code": "STM",
+        "name": "St. Thomas Mount",
+        "line": "Green Line"
+      }
+    }
+  ]
+}

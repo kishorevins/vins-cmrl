@@ -1,0 +1,303 @@
+[
+  {
+    "station_code": "WND",
+    "station_name": "Wimco Nagar Depot",
+    "line": "Blue Line",
+    "latitude": "13.219",
+    "longitude": "80.3168"
+  },
+  {
+    "station_code": "WIM",
+    "station_name": "Wimco Nagar",
+    "line": "Blue Line",
+    "latitude": "13.2161",
+    "longitude": "80.3067"
+  },
+  {
+    "station_code": "TIR",
+    "station_name": "Tiruvottiyur",
+    "line": "Blue Line",
+    "latitude": "13.1827",
+    "longitude": "80.3043"
+  },
+  {
+    "station_code": "TDI",
+    "station_name": "Tiruvottiyur Theradi",
+    "line": "Blue Line",
+    "latitude": "13.173",
+    "longitude": "80.3015"
+  },
+  {
+    "station_code": "KLD",
+    "station_name": "Kaladipet",
+    "line": "Blue Line",
+    "latitude": "13.162",
+    "longitude": "80.2985"
+  },
+  {
+    "station_code": "TLG",
+    "station_name": "Tollgate",
+    "line": "Blue Line",
+    "latitude": "13.153",
+    "longitude": "80.2921"
+  },
+  {
+    "station_code": "NWP",
+    "station_name": "New Washermenpet",
+    "line": "Blue Line",
+    "latitude": "13.141",
+    "longitude": "80.291"
+  },
+  {
+    "station_code": "TND",
+    "station_name": "Tondiarpet",
+    "line": "Blue Line",
+    "latitude": "13.13",
+    "longitude": "80.2915"
+  },
+  {
+    "station_code": "STC",
+    "station_name": "Sir Theagaraya College",
+    "line": "Blue Line",
+    "latitude": "13.121",
+    "longitude": "80.292"
+  },
+  {
+    "station_code": "WSP",
+    "station_name": "Washermenpet",
+    "line": "Blue Line",
+    "latitude": "13.1143",
+    "longitude": "80.2916"
+  },
+  {
+    "station_code": "MND",
+    "station_name": "Mannadi",
+    "line": "Blue Line",
+    "latitude": "13.095",
+    "longitude": "80.29"
+  },
+  {
+    "station_code": "HCT",
+    "station_name": "High Court",
+    "line": "Blue Line",
+    "latitude": "13.0873",
+    "longitude": "80.287"
+  },
+  {
+    "station_code": "CC1",
+    "station_name": "Chennai Central",
+    "line": "Blue Line",
+    "latitude": "13.0827",
+    "longitude": "80.2729"
+  },
+  {
+    "station_code": "GVE",
+    "station_name": "Government Estate",
+    "line": "Blue Line",
+    "latitude": "13.078",
+    "longitude": "80.269"
+  },
+  {
+    "station_code": "LIC",
+    "station_name": "LIC",
+    "line": "Blue Line",
+    "latitude": "13.0643",
+    "longitude": "80.2642"
+  },
+  {
+    "station_code": "THL",
+    "station_name": "Thousand Lights",
+    "line": "Blue Line",
+    "latitude": "13.0582",
+    "longitude": "80.2591"
+  },
+  {
+    "station_code": "AGD",
+    "station_name": "AG-DMS",
+    "line": "Blue Line",
+    "latitude": "13.05",
+    "longitude": "80.251"
+  },
+  {
+    "station_code": "TYN",
+    "station_name": "Teynampet",
+    "line": "Blue Line",
+    "latitude": "13.044",
+    "longitude": "80.245"
+  },
+  {
+    "station_code": "NDM",
+    "station_name": "Nandanam",
+    "line": "Blue Line",
+    "latitude": "13.038",
+    "longitude": "80.238"
+  },
+  {
+    "station_code": "SDP",
+    "station_name": "Saidapet",
+    "line": "Blue Line",
+    "latitude": "13.0237",
+    "longitude": "80.2209"
+  },
+  {
+    "station_code": "LTM",
+    "station_name": "Little Mount",
+    "line": "Blue Line",
+    "latitude": "13.015",
+    "longitude": "80.2125"
+  },
+  {
+    "station_code": "GND",
+    "station_name": "Guindy",
+    "line": "Blue Line",
+    "latitude": "13.009",
+    "longitude": "80.2115"
+  },
+  {
+    "station_code": "ALN",
+    "station_name": "Alandur",
+    "line": "Blue Line",
+    "latitude": "13.0047",
+    "longitude": "80.2015"
+  },
+  {
+    "station_code": "NGR",
+    "station_name": "Nanganallur Road",
+    "line": "Blue Line",
+    "latitude": "12.998",
+    "longitude": "80.193"
+  },
+  {
+    "station_code": "MBK",
+    "station_name": "Meenambakkam",
+    "line": "Blue Line",
+    "latitude": "12.987",
+    "longitude": "80.18"
+  },
+  {
+    "station_code": "APT",
+    "station_name": "Airport",
+    "line": "Blue Line",
+    "latitude": "12.9808",
+    "longitude": "80.1692"
+  },
+  {
+    "station_code": "CHC",
+    "station_name": "Chennai Central",
+    "line": "Green Line",
+    "latitude": "13.0827",
+    "longitude": "80.2729"
+  },
+  {
+    "station_code": "EGM",
+    "station_name": "Egmore",
+    "line": "Green Line",
+    "latitude": "13.0732",
+    "longitude": "80.261"
+  },
+  {
+    "station_code": "NHP",
+    "station_name": "Nehru Park",
+    "line": "Green Line",
+    "latitude": "13.0786",
+    "longitude": "80.2508"
+  },
+  {
+    "station_code": "KPK",
+    "station_name": "Kilpauk",
+    "line": "Green Line",
+    "latitude": "13.0773",
+    "longitude": "80.2425"
+  },
+  {
+    "station_code": "PCE",
+    "station_name": "Pachaiyappa's College",
+    "line": "Green Line",
+    "latitude": "13.077",
+    "longitude": "80.233"
+  },
+  {
+    "station_code": "SNR",
+    "station_name": "Shenoy Nagar",
+    "line": "Green Line",
+    "latitude": "13.078",
+    "longitude": "80.225"
+  },
+  {
+    "station_code": "ANE",
+    "station_name": "Anna Nagar East",
+    "line": "Green Line",
+    "latitude": "13.084",
+    "longitude": "80.218"
+  },
+  {
+    "station_code": "ANT",
+    "station_name": "Anna Nagar Tower",
+    "line": "Green Line",
+    "latitude": "13.085",
+    "longitude": "80.2102"
+  },
+  {
+    "station_code": "THM",
+    "station_name": "Thirumangalam",
+    "line": "Green Line",
+    "latitude": "13.0855",
+    "longitude": "80.201"
+  },
+  {
+    "station_code": "KYB",
+    "station_name": "Koyambedu",
+    "line": "Green Line",
+    "latitude": "13.0696",
+    "longitude": "80.1946"
+  },
+  {
+    "station_code": "CMB",
+    "station_name": "CMBT",
+    "line": "Green Line",
+    "latitude": "13.068",
+    "longitude": "80.203"
+  },
+  {
+    "station_code": "ARB",
+    "station_name": "Arumbakkam",
+    "line": "Green Line",
+    "latitude": "13.062",
+    "longitude": "80.21"
+  },
+  {
+    "station_code": "VDP",
+    "station_name": "Vadapalani",
+    "line": "Green Line",
+    "latitude": "13.0505",
+    "longitude": "80.2122"
+  },
+  {
+    "station_code": "ASK",
+    "station_name": "Ashok Nagar",
+    "line": "Green Line",
+    "latitude": "13.0352",
+    "longitude": "80.2126"
+  },
+  {
+    "station_code": "EKT",
+    "station_name": "Ekkattuthangal",
+    "line": "Green Line",
+    "latitude": "13.017",
+    "longitude": "80.205"
+  },
+  {
+    "station_code": "ALN2",
+    "station_name": "Alandur",
+    "line": "Green Line",
+    "latitude": "13.0047",
+    "longitude": "80.2015"
+  },
+  {
+    "station_code": "STM",
+    "station_name": "St. Thomas Mount",
+    "line": "Green Line",
+    "latitude": "12.9951",
+    "longitude": "80.2039"
+  }
+]
